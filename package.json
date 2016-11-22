@@ -1,0 +1,23 @@
+{
+  "name": "staticifier-test",
+  "version": "1.0.0",
+  "description": "**THE** barebones static website template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carl-eis/staticifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carl-eis/staticifier/issues"
+  },
+  "homepage": "https://github.com/carl-eis/staticifier#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-hogan": "^2.0.0"
+  }
+}
